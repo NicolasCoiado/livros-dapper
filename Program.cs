@@ -1,11 +1,19 @@
 ﻿using Dapper;
 using MySql.Data.MySqlClient;
+using Microsoft.Extensions.Configuration;
 
 public class Program
 {
     public static void Main()
     {
-        string stringConexao = "Server=localhost;Port=3306;Database=livrosdb;Uid=root;Pwd=NrbnnesC^4Y#qMaE*$73Y$sTw;";
+        var builder = new ConfigurationBuilder()
+            .SetBasePath(Directory.GetCurrentDirectory())
+            .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+
+        IConfiguration configuration = builder.Build();
+
+        string stringConexao = configuration.GetConnectionString("DefaultConnection");
+
         using (MySqlConnection conexao = new MySqlConnection(stringConexao))
         {
             Console.Clear();

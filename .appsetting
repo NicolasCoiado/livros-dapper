@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=@server;Port=@port;Database=@databse;Uid=@userid;Pwd=@password;"
+  }
+}

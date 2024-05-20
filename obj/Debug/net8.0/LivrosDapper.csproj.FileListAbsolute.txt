@@ -39,3 +39,12 @@ C:\Users\nicol\Desktop\LivrosDapper\obj\Debug\net8.0\refint\LivrosDapper.dll
 C:\Users\nicol\Desktop\LivrosDapper\obj\Debug\net8.0\LivrosDapper.pdb
 C:\Users\nicol\Desktop\LivrosDapper\obj\Debug\net8.0\LivrosDapper.genruntimeconfig.cache
 C:\Users\nicol\Desktop\LivrosDapper\obj\Debug\net8.0\ref\LivrosDapper.dll
+C:\Users\nicol\Desktop\LivrosDapper\obj\Debug\net8.0\LivrosDapper.sourcelink.json
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nicol\Desktop\LivrosDapper\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
